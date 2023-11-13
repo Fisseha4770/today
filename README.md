@@ -1,2 +1,2 @@
 # today
-for exercise
+for exercise cloning
